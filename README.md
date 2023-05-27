@@ -7,5 +7,5 @@ REGISTRATION FORM LINK- https://gitcoder-piyush.github.io/Registration-Form/
 
 Calculator- https://gitcoder-piyush.github.io/Calculator/
 
-For Running Student Result Mangement follow this repository- 
+For Running Student Result Mangement follow this repository- https://github.com/gitcoder-piyush/Student-Result-Management-System
 
